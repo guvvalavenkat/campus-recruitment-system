@@ -8,10 +8,10 @@ A full-featured web-based Campus Recruitment Management System designed to strea
 > To run the project: open in browser as `http://localhost/crms`
 
 ---
-##👤 **Author**
+#👤 **Author**
 
 **Guvvala Venkat Reddy**
-📧 Email: [guvvalavenkat4@gmail.com](mailto:guvvalavenkat4@gmail.com)
+##📧 Email: [guvvalavenkat4@gmail.com](mailto:guvvalavenkat4@gmail.com)
 ---
 
 ## 🖼️ Screenshots
