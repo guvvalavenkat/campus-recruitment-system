@@ -6,12 +6,6 @@ A full-featured web-based Campus Recruitment Management System designed to strea
 
 > Local Project (PHP + MySQL) — Hosted via XAMPP  
 > To run the project: open in browser as `http://localhost/crms`
-
----
-#👤 **Author**
-
-**Guvvala Venkat Reddy**
-##📧 Email: [guvvalavenkat4@gmail.com](mailto:guvvalavenkat4@gmail.com)
 ---
 
 ## 🖼️ Screenshots
@@ -25,6 +19,11 @@ A full-featured web-based Campus Recruitment Management System designed to strea
 | ![Company Dashboard](https://github.com/user-attachments/assets/3b286f52-4a07-42f7-9d80-2da250d219b1) | ![Admin Dashboard](https://github.com/user-attachments/assets/bf7c8cef-e6d2-46b5-a25e-56d5271a2c5e) |
 
 
+---
+👤** **Author****
+
+**Guvvala Venkat Reddy**
+**📧 Email: [guvvalavenkat4@gmail.com](mailto:guvvalavenkat4@gmail.com)**
 ---
 
 ## 🔐 Login Credentials
