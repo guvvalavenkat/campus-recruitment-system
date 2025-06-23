@@ -134,7 +134,9 @@ crms/
 
 3. **Start Apache and MySQL** using XAMPP Control Panel
 ````
+
 4. **Import the database:**
+
 ````
 
    * Go to `http://localhost/phpmyadmin`
@@ -143,11 +145,13 @@ crms/
 ````
 
 5. **Run the project in browser:**
+
 ````
    http://localhost/crms/
 ````
 
 ##👤 Author
+
 ````
 **Guvvala Venkat Reddy**
 📧 Email: [guvvalavenkat4@gmail.com](mailto:guvvalavenkat4@gmail.com)
