@@ -13,13 +13,13 @@ A full-featured web-based Campus Recruitment Management System designed to strea
 
 ## 🖼️ Screenshots
 
-[![Home Page](https://github.com/user-attachments/assets/13789a41-c5ec-4593-ad0c-556cf049a842)](https://github.com/user-attachments/assets/13789a41-c5ec-4593-ad0c-556cf049a842)
+| Home Page | Student Dashboard |
+|-----------|-------------------|
+| ![Home Page](https://github.com/user-attachments/assets/13789a41-c5ec-4593-ad0c-556cf049a842) | ![Student Dashboard](https://github.com/user-attachments/assets/b65993b8-61cb-4865-9b5f-f1eb76f814d3) |
 
-[![Student Dashboard](https://github.com/user-attachments/assets/b65993b8-61cb-4865-9b5f-f1eb76f814d3)](https://github.com/user-attachments/assets/b65993b8-61cb-4865-9b5f-f1eb76f814d3)
-
-[![Company Dashboard](https://github.com/user-attachments/assets/3b286f52-4a07-42f7-9d80-2da250d219b1)](https://github.com/user-attachments/assets/3b286f52-4a07-42f7-9d80-2da250d219b1)
-
-[![Admin Dashboard](https://github.com/user-attachments/assets/bf7c8cef-e6d2-46b5-a25e-56d5271a2c5e)](https://github.com/user-attachments/assets/bf7c8cef-e6d2-46b5-a25e-56d5271a2c5e)
+| Company Dashboard | Admin Dashboard |
+|-------------------|-----------------|
+| ![Company Dashboard](https://github.com/user-attachments/assets/3b286f52-4a07-42f7-9d80-2da250d219b1) | ![Admin Dashboard](https://github.com/user-attachments/assets/bf7c8cef-e6d2-46b5-a25e-56d5271a2c5e) |
 
 ---
 
