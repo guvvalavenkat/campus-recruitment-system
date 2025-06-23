@@ -1,17 +1,17 @@
 # 🎓 Campus Recruitment Management System (CRMS)
 
 A full-featured web-based Campus Recruitment Management System designed to streamline the recruitment process for **students**, **companies**, and **administrators**.
-##👤 Author
-
-**Guvvala Venkat Reddy**
-📧 Email: [guvvalavenkat4@gmail.com](mailto:guvvalavenkat4@gmail.com)
----
 
 ## 🌐 Live Preview
 
 > Local Project (PHP + MySQL) — Hosted via XAMPP  
 > To run the project: open in browser as `http://localhost/crms`
 
+---
+##👤 **Author**
+
+**Guvvala Venkat Reddy**
+📧 Email: [guvvalavenkat4@gmail.com](mailto:guvvalavenkat4@gmail.com)
 ---
 
 ## 🖼️ Screenshots
