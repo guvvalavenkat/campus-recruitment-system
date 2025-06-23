@@ -14,16 +14,20 @@ A full-featured web-based Campus Recruitment Management System designed to strea
 ## 🖼️ Screenshots
 
 ### 🔹 Home Page
-![Home Page](screenshots/homepage.png)
+![Home Page](![image](https://github.com/user-attachments/assets/13789a41-c5ec-4593-ad0c-556cf049a842)
+)
 
 ### 🔹 Student Dashboard
-![Student Dashboard](screenshots/student_dashboard.png)
+![Student Dashboard](![image](https://github.com/user-attachments/assets/b65993b8-61cb-4865-9b5f-f1eb76f814d3)
+)
 
 ### 🔹 Company Recruiter Dashboard
-![Company Dashboard](screenshots/company_dashboard.png)
+![Company Dashboard](![image](https://github.com/user-attachments/assets/3b286f52-4a07-42f7-9d80-2da250d219b1)
+)
 
 ### 🔹 Admin Dashboard
-![Admin Dashboard](screenshots/admin_dashboard.png)
+![Admin Dashboard](![image](https://github.com/user-attachments/assets/bf7c8cef-e6d2-46b5-a25e-56d5271a2c5e)
+)
 
 ---
 
@@ -69,6 +73,8 @@ A full-featured web-based Campus Recruitment Management System designed to strea
 ---
 
 ## 📁 Folder Structure
+
+```plaintext
 crms/
 ├── admin/
 │   ├── dashboard.php
@@ -104,21 +110,20 @@ crms/
 │   └── ...
 │
 ├── uploads/                  # Uploaded resumes, company logos, etc.
-│
 ├── config/
-│   ├── config.php            # Configuration and constants
-│
+│   └── config.php            # Configuration and constants
 ├── database/
-│   └── crms.sql              # SQL file to import the database (if exists)
+│   └── crms.sql              # SQL file to import the database
 │
 ├── index.php                 # Landing/Home page
 ├── login.php                 # Sign In
 ├── register.php              # Registration form
-├── logout.php                # Session logout
+├── logout.php                # Logout and end session
 ├── contact.php
 ├── about.php
 ├── listed_jobs.php
 └── README.md
+
 
 ---
 
@@ -154,7 +159,7 @@ crms/
 ## 👤 Author
 
 **Guvvala Venkat Reddy**
-📧 Email: [guvvalavenkat@gmail.com](mailto:guvvalavenkat@gmail.com)
+📧 Email: [guvvalavenkat4@gmail.com](mailto:guvvalavenkat4@gmail.com)
 
 ---
 
@@ -162,19 +167,5 @@ crms/
 
 This project is for academic and demonstration purposes only.
 
-````
 
----
 
-### ✅ What to Do Next:
-1. Save this as a file named `README.md`
-2. Place it in the root of your project (`crms/`)
-3. Push it to GitHub using:
-
-```bash
-git add README.md
-git commit -m "Added README"
-git push
-````
-
-Let me know if you want me to generate the `.sql` structure, `.gitignore`, or deployment instructions too!
