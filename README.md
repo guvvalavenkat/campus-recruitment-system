@@ -20,11 +20,11 @@ A full-featured web-based Campus Recruitment Management System designed to strea
 
 
 ---
-👤** **Author****
+## 👤 Author
 
-**Guvvala Venkat Reddy**
-**📧 Email: [guvvalavenkat4@gmail.com](mailto:guvvalavenkat4@gmail.com)**
----
+**Guvvala Venkat Reddy**  
+📧 Email: [guvvalavenkat4@gmail.com](mailto:guvvalavenkat4@gmail.com)
+
 
 ## 🔐 Login Credentials
 
