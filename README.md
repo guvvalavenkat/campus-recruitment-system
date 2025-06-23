@@ -122,18 +122,18 @@ crms/
 ## 🚀 How to Run This Project
 
 1. **Clone the repository:**
-   ```bash
+````bash
    git clone https://github.com/guvvalavenkat/campus-recruitment-system.git
 ````
 
 2. **Move the project to XAMPP directory:**
 
-   ```
+````
    C:\xampp\htdocs\crms
-   ```
+````
 
 3. **Start Apache and MySQL** using XAMPP Control Panel
-
+````
 4. **Import the database:**
 
    * Go to `http://localhost/phpmyadmin`
@@ -142,9 +142,9 @@ crms/
 
 5. **Run the project in browser:**
 
-   ```
+````
    http://localhost/crms/
-   ```
+````
 
 ---
 
