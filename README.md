@@ -132,9 +132,7 @@ crms/
    C:\xampp\htdocs\crms
 ````
 
-3. **Start Apache and MySQL** using XAMPP Control Panel
-````
-
+3. **Start Apache and MySQL** using XAMPP Control Pan
 4. **Import the database:**
 
 ````
@@ -142,7 +140,7 @@ crms/
    * Go to `http://localhost/phpmyadmin`
    * Create a database (e.g., `crms_db`)
    * Import the `.sql` file if provided (check `database/` or project root)
-````
+
 
 5. **Run the project in browser:**
 
